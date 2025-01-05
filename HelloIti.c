@@ -13,4 +13,8 @@ class HelloIti
 	{
 		printf("Hello From Git");
 	}
+     	void printNour()
+	{
+		printf("Hello Nour");
+	}
 }
