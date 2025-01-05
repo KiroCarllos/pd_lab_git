@@ -17,4 +17,8 @@ class HelloIti
 	{
 		printf("Hello Nour");
 	}
+  	void testFun()
+	{
+		printf("Hello testFun");
+	}
 }
