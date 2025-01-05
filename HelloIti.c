@@ -5,5 +5,8 @@ class HelloIti
 	{
 		printf("Hello From Class Iti");
 	}
-
+        void printIti()
+	{
+		printf("Hello printIti");
+	}
 }
