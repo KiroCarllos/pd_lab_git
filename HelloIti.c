@@ -1,6 +1,9 @@
 class HelloIti
 {
 
+    void print()
+    {
+    }
 	void printHelloIti()
 	{
 		printf("Hello From Class Iti");
