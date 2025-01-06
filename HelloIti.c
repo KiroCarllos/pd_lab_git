@@ -7,7 +7,7 @@ class HelloIti
     }
 		void printHelloIti() : base(" Hello From Class Iti")
 
-ay7aga
+
 	{
 		printf("Hello From Class Iti");
 	}
