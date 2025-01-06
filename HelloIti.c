@@ -1,7 +1,7 @@
 class HelloIti
 {
 
-	void printHelloIti()
+	void printHelloIti():base("app")
 	{
 		printf("Hello From Class Iti");
 	}
