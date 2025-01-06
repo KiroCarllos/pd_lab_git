@@ -3,7 +3,8 @@ class HelloIti
 
 	void printHelloIti() : base("app")
 
-							   void printHelloIti()
+	void sayHello();
+	void printHelloIti()
 	{
 		printf("Hello From Class Iti");
 	}
