@@ -1,12 +1,11 @@
 class HelloIti
 {
 	void sayHello();
-	void printHelloIti()
-    void print()
-    {
-    }
-		void printHelloIti() : base(" Hello From Class Iti")
-
+	void printHelloIti() void print()
+	{
+		printf("Hello From HelloIti");
+	}
+	void printHelloIti() : base(" Hello From Class Iti")
 
 	{
 		printf("Hello From Class Iti");
