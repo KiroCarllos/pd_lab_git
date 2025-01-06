@@ -1,15 +1,13 @@
 class HelloIti
 {
 
+	void print()
+	{
+	}
 
+	void printHelloIti() : base(" Hello From Class Iti")
 
-    void print()
-    {
-    }
-
-	void printHelloIti():base("app")
-
-        void printHelloIti()
+							   void printHelloIti()
 
 	{
 		printf("Hello From Class Iti");
