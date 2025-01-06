@@ -1,7 +1,12 @@
 class HelloIti
 {
 
-	void printHelloIti():blabla
+    void blabla()
+    {
+
+    }
+
+	void printHelloIti()
 	{
 		printf("Hello From Class Iti");
 	}
