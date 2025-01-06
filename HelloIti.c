@@ -2,6 +2,8 @@ class HelloIti
 {
 
 	void printHelloIti() : base("app")
+
+							   void printHelloIti()
 	{
 		printf("Hello From Class Iti");
 	}
