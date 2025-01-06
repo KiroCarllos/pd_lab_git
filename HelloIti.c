@@ -5,6 +5,9 @@ class HelloIti
     void print()
     {
     }
+		void printHelloIti() : base(" Hello From Class Iti")
+
+
 	{
 		printf("Hello From Class Iti");
 	}
