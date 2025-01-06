@@ -1,23 +1,23 @@
 class HelloIti
 {
 
-	void printHelloIti()
+	void printHelloIti(char *Nour)
 	{
 		printf("Hello From Class Iti");
 	}
-        void printIti()
+	void printIti()
 	{
 		printf("Hello printIti");
 	}
-      	void printGit()
+	void printGit()
 	{
 		printf("Hello From Git");
 	}
-     	void printNour()
+	void printNour()
 	{
 		printf("Hello Nour");
 	}
-  	void testFun()
+	void testFun()
 	{
 		printf("Hello testFun");
 	}
