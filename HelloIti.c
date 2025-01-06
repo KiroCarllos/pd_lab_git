@@ -1,10 +1,10 @@
 class HelloIti
 {
-
-	void printHelloIti() : base("app")
-
 	void sayHello();
 	void printHelloIti()
+    void print()
+    {
+    }
 	{
 		printf("Hello From Class Iti");
 	}
